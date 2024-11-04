@@ -5,8 +5,8 @@ This repository contains accessible text transcripts of *Dilbert* comics spannin
 ## Project Structure
 
 - **dilbert_comics_transcripts.json**: The original JSON file containing comic metadata and transcripts.
-- **dilbert_comics_transcripts_aria.html**: An HTML file generated from the JSON, designed to be accessible with screen readers using ARIA tags.
-- **scripts**: Python script used to generate the HTML file from the JSON data.
+- **dilbert_comics_transcripts_aria.html**: An HTML file including the JSON data with a quick full-text search function and date selector designed to be accessible with screen readers using ARIA tags.
+- **scripts**: Python script used to generate a one-page HTML file from the JSON data.
 
 ## Accessibility
 
